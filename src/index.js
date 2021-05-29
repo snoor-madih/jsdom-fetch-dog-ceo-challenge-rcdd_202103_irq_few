@@ -1,4 +1,4 @@
-// for some reasone I can't test this lab (run Learn) so  I just committed it 
+
 let breeds = [];
 document.addEventListener('DOMContentLoaded', function () {
   loadImages();
